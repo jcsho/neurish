@@ -5,12 +5,8 @@
 </template>
 
 <style>
-@font-face {
-  font-family: "Comfortaa-Regular";
-  src: url("/fonts/Comfortaa-Regular.ttf") format("ttf");
-}
 html {
-  font-family: Comfortaa-Regular;
+  font-family: Comfortaa;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
