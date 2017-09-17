@@ -1,6 +1,8 @@
 # Neurish
 
-Lumohacks 2017 submission with a focus on Mental Wellness
+Lumohacks 2017 hack with a focus on Mental Wellness
+
+Neurish is a web application to provide users with healthy recipe options based on their mood goals in an interactive manner.
 
 link to web app: [neurish.tech](neurish.tech)
 
