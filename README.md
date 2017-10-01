@@ -2,7 +2,7 @@
 
 Neurish is a web application to provide users with healthy recipe options based on their mood goals in an interactive manner.
 
-link to web app: [neurish.tech](neurish.tech)
+Learn more in the [presentation](https://github.com/justinhodev/neurish/blob/master/Neurish%20-%20Presentation.pdf)
 
 ## Web App:
 
